@@ -1,0 +1,8 @@
+{
+    "live_states_by_symbol": {},
+    "portfolio_daily_pnl_achieved": 0.0,
+    "portfolio_trades_today_count": 0,
+    "is_trading_halted_for_day_global": false,
+    "can_place_new_order_today_global": true,
+    "last_daily_reset_date_global": null
+}
