@@ -1,5 +1,9 @@
 # Algorithmic Trading Bot
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/udhay8005/Algorithmic-trading-bot/blob/main/Algorithmic_trading_bot.ipynb)
+
+---
 This algorithmic trading bot is a sophisticated and highly automated system designed to make trading decisions using deep learning and technical analysis. Operating in a real-time environment, it leverages an asynchronous, multi-threaded architecture to ensure responsiveness, fault tolerance, and efficient processing of market data.
 
 ---
